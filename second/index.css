@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+main {
+    height: 100vh;
+    width: 57.5vw;
+    background-color: white;
+}
+.upper {
+    height: 61%;
+    width: 98%;
+    margin-left: 10px;
+}
+.upperBox {
+    border: 5px solid black;
+    height: 38%;
+    width: 97%;
+    margin-left: 13px;
+    margin-top: 22px;
+    justify-items: center;
+}
+#purpleLeft {
+    background-color: blueviolet;
+    height: 67%;
+    width: 4.75%;
+    float: left;
+    margin-top: 61px;
+    margin-left: 10px;
+}
+#greenMiddle {
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    float: left;
+    margin-left: 54px;
+    margin-top: 11px;
+}
+#blueCircle {
+    background-color: rgb(119, 200, 230);
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-radius: 50%;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.middleBox {
+    border: 5px dotted black;
+    height: 51%;
+    width: 97%;
+    margin-top: 24px;
+    margin-left: 13px;
+}
+.innerMiddle {
+    width: 91%;
+    height: 68%;
+    background-color: rgb(255, 249, 204);
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 10px 10px 5px rgb(75, 75, 75);
+}
+#helloBox {
+    background-color: white;
+    border: .5px solid rgb(180, 180, 180);
+    width: 48%;
+    height: 320px;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    font-family: serif;
+    font-size: 32px;
+    font-stretch: expanded;
+    font-weight: 550;
+    letter-spacing: 10px;
+    color: darkblue;
+    box-shadow: 5px 5px 5px rgb(146, 146, 146);
+}
+p {
+    margin-top: 120px;
+}

@@ -1,32 +1,32 @@
 body {
     margin: 0;
-    background-color: black;
+    background-color: rgb(15, 15, 15);
     display: flex;
     justify-content: center;
 }
 .main {
-    background-color: rgb(189, 186, 186);
-    width: 950px;
+    background-color: rgb(218, 218, 218);
+    width: 969px;
     height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 header {
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(70, 70, 70);
     width: 100%;
-    height: 170px;
+    height: 173px;
 }
 .center {
-    background-color: rgb(223, 222, 222);
-    width: 630px;
+    background-color: rgb(240, 240, 240);
+    width: 660px;
     height: 80%;
 
 }
 footer {
-    background-color: black;
-    width: 630px;
-    height: 100px;
+    background-color: rgb(34, 34, 34);
+    width: 660px;
+    height: 82px;
     vertical-align: baseline;
 
 }
